@@ -27,6 +27,7 @@ Array Size = 100000
 STL Sort Time : 0.00697 s
 
 Insertion Sort Time : 43.4319 s
+
 --------------------------------------------------------
 
 Array Size = 1000000
